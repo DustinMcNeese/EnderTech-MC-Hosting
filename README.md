@@ -1,2 +1,2 @@
 # EnderTech-MC-Hosting
-MC Hosting for minecraft be &amp; minecraft java edition.
+MC Hosting for minecraft be and minecraft java edition servers.
